@@ -1,7 +1,7 @@
 Retirement Interval Analyzer
 -------------
 
-This add-on is to be used  in conjunction with the MIA Retirement Add-on.
+This add-on is to be used  in conjunction with the [MIA Retirement Add-on.](https://ankiweb.net/shared/info/1666520655)
 
 It scans the review queue to find cards that are eligible for retirement.
 If they have been reviewed, it reports the results of these reviews. See below:
