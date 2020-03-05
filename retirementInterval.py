@@ -34,14 +34,6 @@ class RetirementInterval:
             mw.form.menuTools.addAction(self.menuAction)
 
     def results(self, c, interval):
-        # i don't get it why anki runs in a single transactions. This means that if the add-on breaks, it will
-        # taking along the reviews of the user.
-        # so let us commit. At this point, things should be "safe" for the user to have the reviews committed
-
-        # we'll run in a transactions so we do not alter the database, easier than removing the tables
-        c.execute("commit")
-
-        c.execute("begin")
 
         # why compute in python when the database can do all the work with less potential for error?
 
