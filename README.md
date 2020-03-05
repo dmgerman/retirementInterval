@@ -15,7 +15,7 @@ Installation
 ------------
 
 At this point you have to install from file. Download the file retirementInterval.ankiaddon from
-https://github.com/dmgerman/retirementInterval/releases/tag/v0_1 and install from file.
+https://github.com/dmgerman/retirementInterval/releases/tag/v0_1b and install from file.
 
 Bugs
 ----
