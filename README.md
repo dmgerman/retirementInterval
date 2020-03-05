@@ -11,6 +11,17 @@ If they have been reviewed, it reports the results of these reviews. See below:
 The input to the add-on is the number of days of interval. Any card with a number of days larger than this
 will be included in the report.
 
+Installation
+------------
+
+At this point you have to install from file. Download the file retirementInterval.ankiaddon from
+https://github.com/dmgerman/retirementInterval/releases/tag/v0_1 and install from file.
+
+Bugs
+----
+
+Please submit an issue request
+
 Author
 -----
 
